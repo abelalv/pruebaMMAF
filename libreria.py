@@ -36,3 +36,13 @@ def plot_inequality_solution(a):
     ax.set_title(f'Solución de la inecuación 3x + 5 > {a:.2f} en el intervalo [{x_min}, {x_max}]')
     
     plt.show()
+
+# Función para evaluar la inecuación
+def evaluate_inequality(a):
+    x_min, x_max = -10, 10  # Definir el intervalo x
+    threshold = (a - 5) / 3  # Resolver la inecuación 3x + 5 > a
+    
+    # Puntos que satisfacen la inecuación
+    solution_points = np.linspace(threshold, x_max, 100)
+    
+    return solution_points
