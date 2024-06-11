@@ -49,4 +49,4 @@ def evaluate_inequality(a):
 # Aqui hacemos algunas pruebas de la función
 # aqui tengo los segundos cambios
 
-# tengo dos cambios necesarios para el oj
+# tengo dos cambios necesarios para el oj conflicto desde la web
