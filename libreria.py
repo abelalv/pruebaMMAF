@@ -46,3 +46,4 @@ def evaluate_inequality(a):
     solution_points = np.linspace(threshold, x_max, 100)
     
     return solution_points
+# Aqui hacemos algunas pruebas de la función
