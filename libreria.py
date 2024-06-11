@@ -48,3 +48,5 @@ def evaluate_inequality(a):
     return solution_points
 # Aqui hacemos algunas pruebas de la función
 # aqui tengo los segundos cambios
+
+# tengo dos cambios necesarios para el oj
