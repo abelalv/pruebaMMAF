@@ -52,3 +52,5 @@ def evaluate_inequality(a):
 # tengo dos cambios necesarios para el oj conflicto desde la web
 # tengo dos cambios necesarios para el ojo note que tengo algun commit voy a generar otro conflicto
 # tengo dos cambios necesarios para el ojo note que tengo algun commit ottop conflito desde la web
+import numpy as np
+import matplotlib.pyplot as plt
