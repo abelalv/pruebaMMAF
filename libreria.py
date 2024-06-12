@@ -36,3 +36,5 @@ def plot_inequality_solution(a):
     ax.set_title(f'Solución de la inecuación 3x + 5 > {a:.2f} en el intervalo [{x_min}, {x_max}]')
     
     plt.show()
+
+    
