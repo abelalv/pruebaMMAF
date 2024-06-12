@@ -1,5 +1,8 @@
 
-
 def test():
-    return 3
+    a = 1
+    b = 2
+    return print("Hello, World!")
 
+
+test()
